@@ -12,6 +12,7 @@ namespace Lab02
     {
         static void Main(string[] args)
         {
+            //Part 1
             string bossName = "Kirin";
             char rank = 'S';
             int level = 7;
@@ -40,6 +41,14 @@ namespace Lab02
             Console.WriteLine("===== BOSS STATUS: AFTER DAMAGE =====");
             Console.WriteLine("Hp: " + currentHp + "/" + maxHp);
             Console.WriteLine("Hp Percent: " + hpPercent+ "%");
+
+            //----------------------------------------------------------------------------------------------
+            //Part 2
+            // โครงพิมพ์ผล 1 ตัวละคร (ปรับ label ตามธีมของตัวเอง)
+            // Console.WriteLine($"Name: {name}");
+            // Console.WriteLine($"HP: {hp}");
+            // Console.WriteLine($"Speed: {speed}");
+            // ทำซ้ำแบบนี้ให้ครบ 4 ตัวละคร ตัวละ 5 stat
         }
     }
 }
