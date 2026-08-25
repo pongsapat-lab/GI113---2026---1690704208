@@ -49,6 +49,8 @@ namespace Lab02
             // Console.WriteLine($"HP: {hp}");
             // Console.WriteLine($"Speed: {speed}");
             // ทำซ้ำแบบนี้ให้ครบ 4 ตัวละคร ตัวละ 5 stat
+
+
         }
     }
 }
