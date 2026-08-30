@@ -50,6 +50,14 @@ namespace Lab02
             // Console.WriteLine($"Speed: {speed}");
             // ทำซ้ำแบบนี้ให้ครบ 4 ตัวละคร ตัวละ 5 stat
 
+            string Member1 = "John"
+            int m_1_maxHp = 15;
+            int m_1_maxMana = 30;
+            float m_1_atk = 2.4f;
+            double m_1_crit = 0.05;
+
+
+
 
         }
     }
