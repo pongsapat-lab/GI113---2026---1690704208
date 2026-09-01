@@ -93,7 +93,7 @@ namespace Lab02
             Console.WriteLine($"Name: {miniBoss}");
             Console.WriteLine($"Rank: {mini_Danger}");
             Console.WriteLine($"Level: {mini_level}");
-            Console.WriteLine($"Max Hp: {maxHp}");
+            Console.WriteLine($"Max Hp: {mini_maxHp}");
             Console.WriteLine($"Attack Power: {mini_atk}");
             Console.WriteLine($"Crit Multiplier: {mini_crit}");
             Console.WriteLine($"Is Boss: {isminiBoss}");
@@ -107,7 +107,7 @@ namespace Lab02
             Console.WriteLine($"Crit Multiplier: {m_1_crit}");
             Console.WriteLine();
 
-            Console.WriteLine($"Name: {Member1}");
+            Console.WriteLine($"Name: {Member2}");
             Console.WriteLine($"Level:  {m_2_level}");
             Console.WriteLine($"Max Hp: {m_2_maxHp}");
             Console.WriteLine($"Attack Power: {m_2_atk}");
